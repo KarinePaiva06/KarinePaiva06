@@ -1,4 +1,5 @@
-## Olá! Eu sou a Karine Paiva
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on a project 
-
+# 💫 Sobre mim
+👋 Olá, eu sou a **Karine Paiva**  
+💻 Estudante de **Gestão de TI**  
+🎯 Focada em **desenvolvimento front-end** e **suporte técnico**  
+📍 Brasil
